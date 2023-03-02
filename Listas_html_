@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+ 
+    <title>Listas</title>
+</head>
+<body>]
+    <h1>listas</h1>
+
+    <h2>listas nao ordenadas</h2>
+
+    <ul>
+        <li>ventilador
+            maquina de lava
+            geladeira
+            micro-ondas
+            tv
+        </li>
+    </ul>
+    <h2>listas ordenadas</h2>
+
+    <h3></h3>
+    <ol>
+        <li>ventilador
+            maquina de lava
+            geladeira
+            micro-ondas
+            tv
+        </li>
+    </ol>
+</body>
+</html>
